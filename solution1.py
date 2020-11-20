@@ -1,5 +1,4 @@
 def solution(s):
-    count = 0
     stemp = s[0:len(s)]
     st = ""
     arr = []
